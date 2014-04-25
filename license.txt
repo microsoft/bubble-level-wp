@@ -1,6 +1,6 @@
 /**
  *  Copyright © 2011-2013 Digia Plc.
- *  Copyright © 2011-2013 Nokia Corporation.
+ *  Copyright © 2011-2014 Microsoft Mobile.
  *
  *  All rights reserved.
  *
