@@ -1,6 +1,6 @@
 ﻿/**
  *  Copyright © 2011 Digia Plc
- *  Copyright © 2011 Nokia Corporation
+ *  Copyright © 2011-2014 Microsoft Mobile
  *
  *  All rights reserved.
  *
@@ -56,9 +56,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("BubbleLevel")]
 [assembly: AssemblyDescription("Rewrite of the QtBubbleLevel application.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Digia Plc & Nokia Corporation")]
+[assembly: AssemblyCompany("Digia Plc & Microsoft Mobile")]
 [assembly: AssemblyProduct("BubbleLevel")]
-[assembly: AssemblyCopyright("Copyright © Digia Plc. 2011 and Nokia Corporation 2011")]
+[assembly: AssemblyCopyright("Copyright © Digia Plc. 2011 and Microsoft Mobile 2011-2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

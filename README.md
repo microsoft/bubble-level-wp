@@ -90,7 +90,7 @@ LICENCE
 -------------------------------------------------------------------------------
 You can find license details in Licence.txt file provided with this project or
 online at
-http://projects.developer.nokia.com/bubblelevelsilverlight/browser/trunk/license.txt
+https://github.com/Microsoft/bubble-level-wp/blob/master/license.txt
 
 
 CHANGE HISTORY
