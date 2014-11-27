@@ -86,7 +86,7 @@ LICENCE
 -------------------------------------------------------------------------------
 You can find license details in Licence.txt file provided with this project or
 online at
-https://github.com/Microsoft/bubble-level-wp/blob/master/license.txt
+https://github.com/Microsoft/bubble-level-wp/blob/master/License.txt
 
 
 CHANGE HISTORY
